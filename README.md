@@ -1,2 +1,2 @@
-# addventurefund
-Site redirection for legacy AddVenture Fund brand.
+# AddVenture Fund
+Site redirection for legacy AddVenture Fund to Tidal Ventures.
